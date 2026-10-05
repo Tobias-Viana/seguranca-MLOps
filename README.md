@@ -2,7 +2,7 @@
 
 **Ponderada — Alternativa 2: proposta de melhoria do requisito não funcional de segurança**
 
-Autor: Tobias Viana · Inteli, Grupo 1 · Outubro de 2026
+Autor: Tobias Viana Araújo · Inteli, Grupo 1 · Outubro de 2026
 
 ---
 
