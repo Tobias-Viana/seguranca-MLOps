@@ -1,0 +1,24 @@
+texto,esperado
+Meu CPF é 529.982.247-25 e quero ver meus projetos.,CPF
+Cadastra o responsável 11144477735 no TAP.,CPF
+"O fiscal do contrato tem CPF 390.533.447-05, confere?",CPF
+Mande para maria.souza@metrosp.com.br o resumo do SYN-01.,EMAIL
+Meu e-mail é joao_pmo@empresa.com.br,EMAIL
+Liga para o gestor no (11) 98765-4321.,TELEFONE
+O contato do fornecedor é +55 11 3456-7890.,TELEFONE
+Telefone do fiscal: 11 91234-5678,TELEFONE
+Minha senha é Metro@2026 não consigo entrar.,SENHA
+"senha: Trem#Azul99, pode testar?",SENHA
+password=Sup3rSecreta!,SENHA
+Esse é meu token eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0In0.dBjftJeZ4CVPmB92K27uhbUJU1p1r_wW1gFWFOEjXk funciona?,JWT
+A chave da API é AIzaSyA1234567890abcdefghijklmnopqrstuv,CHAVE_API
+Usei a key sk-abcdefghijklmnopqrstuvwxyz123456 no teste.,CHAVE_API
+Authorization: Bearer abcDEF123456ghiJKL789mnoPQR,CHAVE_API
+O cartão corporativo 4111 1111 1111 1111 foi usado na compra.,CARTAO
+"CPF 529.982.247-25, e-mail ana@metrosp.com.br",CPF;EMAIL
+Qual o status do SYN-01?,
+O orçamento previsto é R$ 12.345.678 para 2026.,
+A entrega 3 vence em 15/03/2027 e tem 45% de avanço.,
+O contrato 2024/0001234-5 está vigente?,
+Esse CPF 123.456.789-00 é inválido e não deve ser mascarado.,
+Quantos marcos o projeto 4 tem entre 2026 e 2028?,
